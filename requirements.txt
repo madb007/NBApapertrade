@@ -1,0 +1,12 @@
+
+nba_api
+pandas
+numpy
+scikit-learn
+tensorflow    
+xgboost
+python-dotenv
+pytest
+black
+flake8
+
